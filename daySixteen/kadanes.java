@@ -1,5 +1,5 @@
 package daySixteen;
-
+//kadanes algoridhm
 public class kadanes {
     public static void kadanesAlgo(int numbers[]) {
         int maxSum = Integer.MIN_VALUE;

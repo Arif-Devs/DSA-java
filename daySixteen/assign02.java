@@ -1,5 +1,5 @@
 package daySixteen;
-
+//binary search
 public class assign02 {
     public static int Search(int numbers[], int target) {
         int start = 0;
