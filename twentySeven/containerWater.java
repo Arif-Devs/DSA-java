@@ -20,6 +20,7 @@ import java.util.ArrayList;
 
 //2 pointer approach
 
+
 public static int waterCount(ArrayList<Integer> height) {
     int maxWater = 0;
     int leftPointer = 0;
